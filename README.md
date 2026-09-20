@@ -39,8 +39,8 @@
     <td width="50%"><img src="https://isocompany.co.kr/assets/screenshots/bible-onair-screen.png" alt="송출 화면"></td>
   </tr>
   <tr>
-    <td align="center"><b>조작 화면</b><br>내 노트북에서 봅니다.<br>왼쪽에서 구절을 고르고 오른쪽에서 미리 봅니다.</td>
-    <td align="center"><b>송출 화면</b><br>빔프로젝터나 보조 모니터로 나갑니다.<br>고른 구절만 크게 표시됩니다.</td>
+    <td align="center"><b>조작 화면</b><br>메인 모니터에서 제어할 수 있어요.<br>왼쪽 구역에서 구절을 선택하고 오른쪽에서 미리보기 화면을 확인할 수 있습니다.</td>
+    <td align="center"><b>송출 화면</b><br>설정한 보조 모니터로 구절이 출력됩니다.</td>
   </tr>
 </table>
 

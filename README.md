@@ -1,44 +1,144 @@
-# Bible OnAir
+<p align="center">
+  <a href="https://isocompany.co.kr/bible-onair/">
+    <img src="https://isocompany.co.kr/assets/og/og-default.png" width="820" alt="Bible OnAir — 예배용 성경 자막 프로그램">
+  </a>
+</p>
 
-예배용 성경 구절 프롬프터입니다. 제어 화면과 송출 화면이 나뉘어 있어, 장·절을 선택하면
-회중이 보는 화면에는 해당 구절만 표시됩니다. Windows 전용이며 무료입니다.
+<h1 align="center">Bible OnAir</h1>
 
-**[홈페이지](https://isocompany.co.kr/bible-onair/)** · **[최신 버전 내려받기](https://github.com/dode777/Bible-OnAir-Releases/releases/latest)**
+<p align="center">
+  <b>예배 중에 성경 구절을 화면에 띄우는 프로그램입니다.</b><br>
+  장과 절을 고르면 회중이 보는 화면에 그 구절만 나타납니다.<br>
+  찾고 고르는 과정은 보이지 않습니다.
+</p>
 
-![조작 화면](https://isocompany.co.kr/assets/screenshots/bible-onair-control.png)
+<p align="center">
+  <a href="https://github.com/dode777/Bible-OnAir-Releases/releases/latest"><img src="https://img.shields.io/badge/Windows%EC%9A%A9%20%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0-111111?style=for-the-badge&logo=windows&logoColor=white" alt="Windows용 내려받기"></a>
+  &nbsp;
+  <img src="https://img.shields.io/github/v/release/dode777/Bible-OnAir-Releases?style=for-the-badge&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=555555" alt="최신 버전">
+  &nbsp;
+  <img src="https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C-2f9e44?style=for-the-badge" alt="무료">
+</p>
 
-*조작 화면 — 왼쪽에서 구절을 선택하고 오른쪽에서 송출 화면을 미리 봅니다.*
+<p align="center">
+  <a href="https://isocompany.co.kr/bible-onair/"><b>홈페이지</b></a> &nbsp;·&nbsp;
+  <a href="#화면">화면</a> &nbsp;·&nbsp;
+  <a href="#할-수-있는-일">할 수 있는 일</a> &nbsp;·&nbsp;
+  <a href="#설치하기">설치하기</a> &nbsp;·&nbsp;
+  <a href="#자주-묻는-것">자주 묻는 것</a>
+</p>
 
-![송출 화면](https://isocompany.co.kr/assets/screenshots/bible-onair-screen.png)
+<br>
 
-*송출 화면 — 선택한 구절이 출력 화면에 표시됩니다.*
+## 화면
 
-## 주요 기능
+프로그램은 두 개의 창으로 나뉘어 동작합니다.
 
-- **손쉬운 송출 화면 설정** — 듀얼모니터나 빔프로젝터 등 구절을 송출할 화면을 쉽고 빠르게 설정할 수 있습니다.
-- **신속한 구절 선택** — 책, 장, 절을 차례로 선택하여 송출 범위를 지정합니다. 단축키(`Ctrl + F`) 검색도 지원합니다.
-- **다양한 송출 모드** — 한 절씩, 여러 절씩 보기, 연속 스크롤 등 예배 상황에 맞춰 선택할 수 있습니다.
-- **송출 대기 및 전환** — 단축키 하나로 송출 상태와 대기 상태를 빠르게 전환할 수 있습니다.
-- **즐겨찾기 및 백업** — 자주 쓰는 구절을 즐겨찾기에 등록하고, JSON 파일로 가져오거나 내보낼 수 있습니다.
-- **자동 업데이트** — 새 버전이 나오면 프로그램이 스스로 확인해 안내합니다.
+<table>
+  <tr>
+    <td width="50%"><img src="https://isocompany.co.kr/assets/screenshots/bible-onair-control.png" alt="조작 화면"></td>
+    <td width="50%"><img src="https://isocompany.co.kr/assets/screenshots/bible-onair-screen.png" alt="송출 화면"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>조작 화면</b><br>내 노트북에서 봅니다.<br>왼쪽에서 구절을 고르고 오른쪽에서 미리 봅니다.</td>
+    <td align="center"><b>송출 화면</b><br>빔프로젝터나 보조 모니터로 나갑니다.<br>고른 구절만 크게 표시됩니다.</td>
+  </tr>
+</table>
 
-## 설치
+<br>
 
-`Bible-OnAir-Setup-<버전>.exe` 를 받아 실행하시면 됩니다. 관리자 권한은 필요 없습니다.
+## 할 수 있는 일
 
-설치할 때 **"Windows의 PC 보호"** 창이 나오면 `추가 정보` → `실행` 을 누르시면 됩니다.
-프로그램에 문제가 있어서가 아니라, 아직 코드 서명 인증서를 붙이지 않아 나오는 안내입니다.
+<table>
+  <tr>
+    <td width="33%"><b>손쉬운 송출 화면 설정</b><br>듀얼모니터나 빔프로젝터 등 구절을 송출할 화면을 쉽고 빠르게 설정할 수 있습니다.</td>
+    <td width="33%"><b>신속한 구절 선택</b><br>책, 장, 절을 차례로 선택하여 송출 범위를 지정합니다. <kbd>Ctrl</kbd> + <kbd>F</kbd> 검색도 지원합니다.</td>
+    <td width="33%"><b>다양한 송출 모드</b><br>한 절씩, 여러 절씩 보기, 연속 스크롤 등 예배 상황에 맞춰 선택할 수 있습니다.</td>
+  </tr>
+  <tr>
+    <td><b>송출 대기 및 전환</b><br>단축키 하나로 송출 상태와 대기 상태를 빠르게 전환할 수 있습니다.</td>
+    <td><b>즐겨찾기 및 백업</b><br>자주 쓰는 구절을 즐겨찾기에 등록하고, 파일로 내보내거나 다시 불러올 수 있습니다.</td>
+    <td><b>자동 업데이트</b><br>새 버전이 나오면 프로그램이 스스로 확인해 안내합니다. 이 페이지를 다시 찾아오실 필요가 없습니다.</td>
+  </tr>
+</table>
 
-## 본문
+<br>
+
+## 설치하기
+
+1. 위의 **Windows용 내려받기** 를 누릅니다.
+2. `Bible-OnAir-Setup-<버전>.exe` 를 받아 실행합니다. **관리자 권한은 필요 없습니다.**
+3. 바탕화면과 시작 메뉴에 바로가기가 만들어집니다.
+
+> [!NOTE]
+> **"Windows의 PC 보호" 창이 뜨면** `추가 정보` → `실행` 을 누르시면 됩니다.
+> 프로그램에 문제가 있어서가 아니라, 아직 코드 서명 인증서를 붙이지 않아 나오는 안내입니다.
+
+<br>
+
+## 사용 환경
+
+| 항목 | 내용 |
+| :--- | :--- |
+| 운영체제 | Windows 10 이상 |
+| 출력 화면 | 빔프로젝터 또는 보조 모니터 |
+| 인터넷 | 연결 불필요 |
+| 성경 본문 | 개역한글 |
+
+<br>
+
+## 자주 묻는 것
+
+<details>
+<summary><b>macOS나 리눅스에서도 쓸 수 있나요?</b></summary>
+
+현재 Bible OnAir는 Windows 운영체제만 지원하고 있습니다.
+더 많은 환경에서 편리하게 사용하실 수 있도록, 추후 지원 플랫폼 확장을 검토할 예정입니다.
+
+</details>
+
+<details>
+<summary><b>설치하려는데 "알 수 없는 앱" 경고가 뜹니다.</b></summary>
+
+안전한 프로그램이니 안심하고 진행하셔도 됩니다.
+초기 배포 버전으로 아직 코드 서명(디지털 인증서) 등록 단계에 있어 Windows가 일시적으로 차단하는 현상입니다.
+
+경고창에서 **추가 정보** 를 클릭한 후, 활성화되는 **실행** 버튼을 누르면 정상적으로 설치가 진행됩니다.
+
+</details>
+
+<details>
+<summary><b>모니터 목록에 빔프로젝터가 안 보입니다.</b></summary>
+
+현재 PC의 디스플레이 설정이 '화면 복제' 상태인지 확인해 주세요.
+화면 복제 모드에서는 Windows가 하나의 모니터로만 인식하기 때문에 목록에 나타나지 않습니다.
+
+바탕화면 우클릭 → **디스플레이 설정** 또는 <kbd>Win</kbd> + <kbd>P</kbd> 로 디스플레이 모드를 **확장** 으로 변경하시면 정상적으로 인식됩니다.
+
+</details>
+
+<br>
+
+## 성경 본문
 
 저작권이 소멸된 **「성경전서 개역한글판」(1961)** 을 씁니다.
-개역개정은 대한성서공회의 저작권물이라 사용 허락을 확보한 뒤에 제공할 예정입니다.
+개역개정은 대한성서공회의 저작권물이라, 사용 허락을 확보한 뒤에 제공할 예정입니다.
 
-## 이 저장소에 대해
-
-설치 파일과 업데이트 정보만 올라가는 배포 전용 저장소입니다. 소스 코드는 들어 있지 않습니다.
-버전별 변경 내용은 [홈페이지](https://isocompany.co.kr/bible-onair/)에서 보실 수 있습니다.
+<br>
 
 ## 문의
 
-hello@isocompany.co.kr
+사용 중 생긴 문제나 기능 제안을 보내주세요. 확인하는 대로 답변드리겠습니다.
+
+**hello@isocompany.co.kr**
+
+<br>
+
+---
+
+<p align="center">
+  <sub>
+    설치 파일 배포 전용 저장소입니다. 프로그램 소스 코드는 들어 있지 않습니다.<br>
+    버전별 변경 내용은 <a href="https://isocompany.co.kr/bible-onair/">홈페이지</a>에서 보실 수 있습니다.
+  </sub>
+</p>

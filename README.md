@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dode777/Bible-OnAir-Releases/releases/latest"><img src="https://img.shields.io/badge/Windows%EC%9A%A9%20%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0-111111?style=for-the-badge&logo=windows&logoColor=white" alt="Windows용 내려받기"></a>
+  <a href="https://isocompany.co.kr/bible-onair/"><img src="https://img.shields.io/badge/Windows%EC%9A%A9%20%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0-111111?style=for-the-badge&logo=windows&logoColor=white" alt="Windows용 내려받기"></a>
   &nbsp;
   <img src="https://img.shields.io/github/v/release/dode777/Bible-OnAir-Releases?style=for-the-badge&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=555555" alt="최신 버전">
   &nbsp;
@@ -23,8 +23,7 @@
 <p align="center">
   <a href="https://isocompany.co.kr/bible-onair/"><b>홈페이지</b></a> &nbsp;·&nbsp;
   <a href="#화면">화면</a> &nbsp;·&nbsp;
-  <a href="#할-수-있는-일">할 수 있는 일</a> &nbsp;·&nbsp;
-  <a href="#설치하기">설치하기</a> &nbsp;·&nbsp;
+  <a href="#기능">기능</a> &nbsp;·&nbsp;
   <a href="#자주-묻는-것">자주 묻는 것</a>
 </p>
 
@@ -47,7 +46,7 @@
 
 <br>
 
-## 할 수 있는 일
+## 기능
 
 <table>
   <tr>
@@ -58,21 +57,9 @@
   <tr>
     <td><b>송출 대기 및 전환</b><br>단축키 하나로 송출 상태와 대기 상태를 빠르게 전환할 수 있습니다.</td>
     <td><b>즐겨찾기 및 백업</b><br>자주 쓰는 구절을 즐겨찾기에 등록하고, 파일로 내보내거나 다시 불러올 수 있습니다.</td>
-    <td><b>자동 업데이트</b><br>새 버전이 나오면 프로그램이 스스로 확인해 안내합니다. 이 페이지를 다시 찾아오실 필요가 없습니다.</td>
+    <td><b>자동 업데이트</b><br>새 버전은 사용하시는 프로그램 내에서 업데이트 할 수 있습니다.</td>
   </tr>
 </table>
-
-<br>
-
-## 설치하기
-
-1. 위의 **Windows용 내려받기** 를 누릅니다.
-2. `Bible-OnAir-Setup-<버전>.exe` 를 받아 실행합니다. **관리자 권한은 필요 없습니다.**
-3. 바탕화면과 시작 메뉴에 바로가기가 만들어집니다.
-
-> [!NOTE]
-> **"Windows의 PC 보호" 창이 뜨면** `추가 정보` → `실행` 을 누르시면 됩니다.
-> 프로그램에 문제가 있어서가 아니라, 아직 코드 서명 인증서를 붙이지 않아 나오는 안내입니다.
 
 <br>
 
@@ -121,8 +108,7 @@
 
 ## 성경 본문
 
-저작권이 소멸된 **「성경전서 개역한글판」(1961)** 을 씁니다.
-개역개정은 대한성서공회의 저작권물이라, 사용 허락을 확보한 뒤에 제공할 예정입니다.
+무료버전에는 저작권이 소멸된 **「성경전서 개역한글판」(1961)** 을 사용하고 있습니다.
 
 <br>
 
@@ -138,7 +124,6 @@
 
 <p align="center">
   <sub>
-    설치 파일 배포 전용 저장소입니다. 프로그램 소스 코드는 들어 있지 않습니다.<br>
-    버전별 변경 내용은 <a href="https://isocompany.co.kr/bible-onair/">홈페이지</a>에서 보실 수 있습니다.
+    자세한 내용은 <a href="https://isocompany.co.kr/bible-onair/">홈페이지</a>에서 확인하실 수 있습니다.
   </sub>
 </p>

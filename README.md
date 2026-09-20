@@ -7,10 +7,6 @@
 <h1 align="center">Bible OnAir</h1>
 
 <p align="center">
-  <b>예배 중 성경 구절을 설정한 화면에 띄우는 프로그램입니다.</b>
-</p>
-
-<p align="center">
   <a href="https://isocompany.co.kr/bible-onair/"><img src="https://img.shields.io/badge/Windows%EC%9A%A9%20%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0-111111?style=for-the-badge&logo=windows&logoColor=white" alt="Windows용 내려받기"></a>
   &nbsp;
   <img src="https://img.shields.io/github/v/release/dode777/Bible-OnAir-Releases?style=for-the-badge&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=555555" alt="최신 버전">

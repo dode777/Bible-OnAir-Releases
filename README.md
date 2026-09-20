@@ -2,6 +2,8 @@
 
 교회 예배에서 성경 구절을 스크린에 송출하는 Windows 프로그램, **Bible OnAir** 의 설치 파일을 내려받는 곳입니다.
 
+프로그램 소개와 버전별 변경 내용은 홈페이지에 있습니다 — <https://isocompany.co.kr/bible-onair/>
+
 ## 내려받기
 
 **[최신 버전 내려받기](https://github.com/dode777/Bible-OnAir-Releases/releases/latest)**
@@ -27,4 +29,4 @@
 
 ## 문의
 
-hello.isocompany.co.kr
+hello@isocompany.co.kr

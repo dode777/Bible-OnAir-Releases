@@ -1,3 +1,20 @@
+## 2.0.3
+### Refined Verse Search and Screen Display
+
+- When you scroll to the end of the verse search results, more results now load.
+- Fixed a display issue where some screens looked misaligned.
+
+## 2.0.2
+### Fixed a Login Issue
+
+- Fixed an issue where you could not log in again after closing the login window.
+
+## 2.0.1
+### Redesigned the Account Window
+
+- Reorganized the account window so it is easier to read at a glance.
+- Fixed an issue where the old icon remained on the taskbar.
+
 ## 2.0.0
 ### Google Login and Account Features Added
 

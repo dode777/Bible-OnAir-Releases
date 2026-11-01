@@ -1,3 +1,8 @@
+## 2.0.4
+### Faster Verse Reselection
+
+- After choosing verses, you can now pick other verses right away without resetting.
+
 ## 2.0.3
 ### Refined Verse Search and Screen Display
 

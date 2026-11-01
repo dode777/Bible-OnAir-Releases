@@ -1,3 +1,10 @@
+## 2.1.0
+### Screen and Broadcast Captions Together
+
+- You can now select both the screen and broadcast captions as outputs.
+- With both selected, verses are shown one at a time, and the screen and captions always show the same passage.
+- Broadcast on/off (O · Q) turns both on and off at once.
+
 ## 2.0.4
 ### Faster Verse Reselection
 

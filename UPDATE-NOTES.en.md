@@ -1,3 +1,9 @@
+## 2.2.0
+### Verse Search Is Now a Standard Feature
+
+- Verse search, previously in the Lab, is now available to everyone without logging in.
+  (Press Ctrl + F or click the search icon to find verses by part of their text.)
+
 ## 2.1.0
 ### Screen and Broadcast Captions Together
 
